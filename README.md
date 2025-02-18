@@ -11,7 +11,7 @@
 </div>
 
 <!-- About Me Section -->
-<div align="center">
+<div align="left">
 
 ```typescript
 const AboutMe = {
