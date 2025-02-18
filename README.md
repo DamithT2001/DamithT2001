@@ -3,14 +3,8 @@
   <!-- Custom Banner Image - You can create one using Canva or similar tools -->
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Damith%20Dissanayake&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32)
 
-  <div style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=435&lines=Software+Engineering+%7C+Architecture;Full+Stack+Development;Cloud+Native+Solutions;Clean+Code+Enthusiast" alt="Typing SVG" />
-  </div>
 
   <br>
-  
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=DamithT2001&style=for-the-badge&color=0e75b6" alt="Profile Views">
 
 </div>
 
@@ -21,17 +15,14 @@
 ```typescript
 const AboutMe = {
     currentlyBased: "Sri Lanka 🌏",
-    roles: ["Full Stack Developer", "Software Architect"],
+    roles: ["Full Stack Software Developer"],
     workingWith: {
         languages: ["TypeScript", "JavaScript", "Java", "Python"],
-        frontend: ["React", "Next.js", "React Native"],
+        frontend: ["React", "React Native"],
         backend: ["Node.js", "NestJS", "Spring Boot"],
-        cloud: ["AWS", "Docker", "Microservices"],
+        cloud: ["AWS", "Docker"],
         databases: ["MongoDB", "MySQL"],
-    },
-    currentlyLearning: ["System Design", "AWS Solutions"],
-    askMeAbout: ["Web Dev", "Tech", "Architecture"],
-    funFact: "I debug with console.log and refuse to admit it 🤫"
+    }
 };
 ```
 </div>
@@ -44,10 +35,8 @@ const AboutMe = {
 <div align="center">
   
 ### Frontend Artillery 🎯
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -87,18 +76,6 @@ const AboutMe = {
   </a>
 </div>
 
-<!-- Featured Projects -->
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/YourRepo1">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DamithT2001&repo=YourRepo1&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/YourRepo2">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DamithT2001&repo=YourRepo2&theme=tokyonight&hide_border=true"/>
-  </a>
-</div>
-
 <!-- Contact Section -->
 ## 🤝 Let's Connect
 
@@ -106,7 +83,7 @@ const AboutMe = {
   <a href="https://linkedin.com/in/damithdissanayaka" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:damitht2001.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="your-portfolio-url" target="_blank">
