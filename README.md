@@ -4,7 +4,7 @@
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Damith%20Dissanayake&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32)
 
 <div style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=435&lines=Software+Engineering;Full+Stack+Development;Clean+Code+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Clean+Code+Enthusiast:Problem+Solver" alt="Typing SVG" />
   </div>
   <br>
 
